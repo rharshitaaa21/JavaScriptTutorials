@@ -23,3 +23,7 @@ console.log(a, b);
  2. refrence- arrays, objects
  */
 
+var arr = [1,2,"hehe", 4, 5, "Offo"];
+ 
+
+
