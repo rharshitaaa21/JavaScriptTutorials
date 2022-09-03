@@ -19,3 +19,5 @@ function print( a, b)
 var ans = print( 10,20);
 
 //on console, number are described blue and strings are described red
+var x ;
+console.log(x);  // x undefined by default 
