@@ -42,3 +42,23 @@
 //5. manipulation
 // const heading = document.querySelector('.flag');
 //  heading.innerHTML= "I am tired of this stress";
+// heading.style.color = 'purple';
+// heading.style.fontSize='50px';
+// heading.classList.add('title');
+// heading.classList.remove('flag');
+
+
+//Advanced Manipulation 
+//create element 
+// const heading = document.createElement('h5');
+// console.log(heading);
+// heading.innerHTML = 'I have been striving hard';
+// const parent = document.querySelector('.parent');
+//  parent.appendChild( heading );
+
+
+//  const subheading  = document.createElement('p2');
+//  subheading.innerHTML = 'Web Dev is awesome';
+//  parent.appendChild(subheading);
+//  heading.insertAdjacentElement('afterend',  subheading);
+//  console.log(heading);
