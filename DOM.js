@@ -67,3 +67,12 @@
 
 
 //DOM Events --------------------------
+// the basic events things does and what actions we take accordingly
+
+const button = document.querySelector('#btn');
+const heading = document.querySelector('#head');
+button.addEventListener('click',function(event){
+    heading.style.color = 'red';
+   // heading.style.fontSize = '50px';
+    console.log('button clicked')
+} );
